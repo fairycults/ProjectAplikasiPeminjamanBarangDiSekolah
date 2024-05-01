@@ -9,5 +9,6 @@
 </div>
 
 
- <h2 style="font-size: 15px;  color: #333; text-shadow: 2px 2px 4px #aaa; background-color: #f0f0f0; padding: 10px 20px; border-radius: 8px;">Anggota: </h2>
+ <h2 style="font-size: 15px;  color: #333; text-shadow: 2px 2px 4px #aaa; background-color: #f0f0f0; padding: 10px 20px; border-radius: 8px;">Anggota:</h2>
+ <h3 style="font-size: 15px;  color: #333; text-shadow: 2px 2px 4px #aaa; background-color: #f0f0f0; padding: 10px 20px; border-radius: 8px;">Fatria<br>M. Irgi<br>M. Riefan<br> Nur<br>Rofi</h3>
  
